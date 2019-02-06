@@ -8,7 +8,7 @@
 
 ## Result
 
-![Example image](https://github.com/aylna/imageSegmentationKMeans/raw/master/WatershedResult.png)
+![Example image](https://github.com/aylna/ImageSegmentationWatershed/blob/master/WatershedResult.png)
 
 # Docker usage
 
