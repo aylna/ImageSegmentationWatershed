@@ -9,3 +9,10 @@
 ## Result
 
 ![Example image](https://github.com/aylna/imageSegmentationKMeans/raw/master/WatershedResult.png)
+
+# Docker usage
+
+```
+docker build -t watershed .
+docker run watershed
+```
